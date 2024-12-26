@@ -8,3 +8,4 @@
    2. [Установка на Mac](./install_on_mac.md)
    3. [Установка в Windows](./install_on_win.md)
    4. [Установка из исходников](./source_installation.md)
+   
