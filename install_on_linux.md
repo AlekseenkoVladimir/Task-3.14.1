@@ -11,3 +11,6 @@ $ sudo dnf install git-all
 $ sudo apt install git
 ```
 Чтобы воспользоваться дополнительными возможностями, посмотрите инструкцию по установке для нескольких различных разновидностей Unix на сайте Git https://git-scm.com/download/linux.
+
+---
+[< К содержанию](./README.md)

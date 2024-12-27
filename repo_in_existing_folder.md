@@ -30,3 +30,5 @@ $ git add LICENSE
 $ git commit -m 'Initial project version'
 ```
 Теперь у вас есть Git-репозиторий с отслеживаемыми файлами и начальным коммитом.
+---
+[< К содержанию](./README.md)

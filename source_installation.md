@@ -43,3 +43,5 @@ $ sudo make install install-doc install-html install-info
 ```
 $ git clone git://git.kernel.org/pub/scm/git/git.git
 ```
+---
+[< К содержанию](./README.md)
