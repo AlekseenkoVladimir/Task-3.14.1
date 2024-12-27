@@ -21,3 +21,6 @@ LICENSE: [MIT](./license.md)
 ---
 Git Logo by Jason Long - https://git-scm.com/downloads/logos. 
 Licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
+
+---
+Вся книга `Pro Git`, написанная `Скоттом Чаконом и Беном Штраубом` и опубликованная `Apress`, доступна [здесь](https://git-scm.com/book/ru/v2). Весь контент лицензирован по лицензии [Creative Commons Attribution Non Commercial Share Alike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en)
